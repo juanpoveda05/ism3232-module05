@@ -21,10 +21,7 @@ Did pytest pass? Yes
 
 ## AI Literacy Reflection
 Did I use AI? No
-If yes -- exact prompt I used: ___
-What AI explained: ___
-What I changed myself: ___
-Can I explain every fixed line? Yes / No
+I feel like it was not really needed in this assignment because the the Lab explains step by step on how to debug and understand why you are doing it.
 
 ## What I learned
 I learned to read a traceback from the bottom up, because the last line tells you the error type and the line above it shows exactly where the code broke. I also learned that a KeyError usually means a typo in the data, and a TypeError means you are mixing types, like comparing a number to a string.
